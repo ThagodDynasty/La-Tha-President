@@ -49,5 +49,5 @@ jobs:
         with:
           path: ${{ steps.changed-files.outputs.all_changed_files }}
           cliArguments: --only-k8s-files
-          isHelmChart: false
-          isKustomization: false
+          isHelmChart: true
+          isKustomization: true
