@@ -1,2 +1,2 @@
-# La-Tha-President
-URL app
+# thagod dynasty crypto
+URL thagoddynasty.crypto
